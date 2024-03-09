@@ -19,4 +19,5 @@ T_Lower                         ∶ Top lower-sided region
 B_Lower                         ∶ Bottom lower-sided region
 
 X_δx , Y_δx , Z_δx           ∶ Global coordinate system on local deflection in x-direction
+
 X_δy , Y_δy , Z_δy           ∶ Global coordinate system on local deflection in y-direction
